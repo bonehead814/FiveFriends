@@ -1,0 +1,7 @@
+C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\bin\Debug\FiveFriends2.exe.config
+C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\bin\Debug\FiveFriends2.exe
+C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\bin\Debug\FiveFriends2.pdb
+C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Debug\FiveFriends2.csprojAssemblyReference.cache
+C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Debug\FiveFriends2.csproj.CoreCompileInputs.cache
+C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Debug\FiveFriends2.exe
+C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Debug\FiveFriends2.pdb
