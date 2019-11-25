@@ -4,4 +4,3 @@ C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\bin\Release\FiveFriends2.p
 C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Release\FiveFriends2.csproj.CoreCompileInputs.cache
 C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Release\FiveFriends2.exe
 C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Release\FiveFriends2.pdb
-C:\Users\davec\source\repos\FiveFriends2\FiveFriends2\obj\Release\FiveFriends2.csprojAssemblyReference.cache
